@@ -16,4 +16,4 @@ Requesting a test server will duplicate the original files and provide you with 
 
 With the old test servers, players were not able to be opped (for the safety of other players). Using this solution allows everyone to be able to play around with the setup fully and, mainly, making sure you know what you will receive upon purchase!
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
