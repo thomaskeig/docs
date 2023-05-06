@@ -1,3 +1,10 @@
 {
-  "plugins": ["redirect"]
+  "plugins": ["redirect"],
+  "pluginsConfig": {
+    "redirect": {
+      "rules": {
+        ".*": "/"
+      }
+    }
+  }
 }
