@@ -10,6 +10,7 @@ If you do not have a license yet, resources can be purchased via BuiltByBit or P
 
 * **Lifesteal:** [BuiltByBit](https://builtbybit.com/r/23629/), [Polymart](https://polymart.org/r/2318)
 * **Survival:** [BuiltByBit](https://builtbybit.com/resources/27680/), [Polymart](https://polymart.org/resource/3710)
+* **Factions:** [BuiltByBit](https://builtbybit.com/resources/28469/), [Polymart](https://polymart.org/resource/4027)
 * **Free For All:** [BuiltByBit](https://builtbybit.com/resources/25174/), [Polymart](https://polymart.org/resource/2864)
 * **BoxPvP:** [BuiltByBit](https://builtbybit.com/resources/26589/), [Polymart](https://polymart.org/resource/3361)
 * **Easy Hub:** [BuiltByBit](https://builtbybit.com/resources/27082/), [Polymart](https://polymart.org/resource/3505)
