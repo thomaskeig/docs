@@ -85,4 +85,4 @@ Spawn: [https://bbyb.it/r/26078/](https://bbyb.it/r/26078/)\
 
 </details>
 
-> All configurations are made fully by me and there is no one else to credit.
+> All my configurations are made fully by me and there is no one else to credit.
