@@ -36,6 +36,10 @@ Please read the contents of the dropdown below to learn more about the configura
 
 Coins are handled through the PlayerPoints plugin. You can use the base command `/points` to give and take coins from people
 
+### Rank Backwards Buying:
+
+Add the `meta.group.<name>` permission to each of your ranks to prevent players from being able to purchase ranks they already own. If you have changed the rank names in the config, you will also need to change this metadata.
+
 ### Common Issues:
 
 None yet; check back here soon!
