@@ -39,6 +39,19 @@ description: Find credits of Maps/Configs used in my setups here
 
 <details>
 
+<summary>Factions Setup</summary>
+
+* Spawn: [https://bbyb.it/r/28268](https://bbyb.it/r/28268)\
+  (The version used in my setup has been slightly adapted)
+
+<!---->
+
+* Duel Arenas: [https://bbyb.it/r/22718](https://bbyb.it/r/22718)
+
+</details>
+
+<details>
+
 <summary>Free for All Setup</summary>
 
 * Spawn: [https://bbyb.it/r/22476](https://bbyb.it/r/22476/)\
