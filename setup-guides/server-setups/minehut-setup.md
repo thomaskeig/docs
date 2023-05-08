@@ -36,10 +36,10 @@ Select all the files and add them to a ZIP file. I recommend using 7Zip for this
 
 ## 3. Select Server Version
 
-Make your way back to the settings tab and under the panel named "Server Version". Select "Paper" as your Server Type and "1.19.4" as your Server Version. Press "Update" to save the changes.
+Make your way back to the settings tab and under the panel named "Server Version". Select "Paper" as your Server Type and choose the correct server version. You can find out what server version is supported for the setup you have bought on [this](../../miscellaneous/resource-versions.md) page. Then press "Update" to save the changes.
 
 {% hint style="danger" %}
-It is vital that your use **1.19.4** for **ALL** setups. If you use any other version, the setup will fail to load and crash. By default, Minehut also allows connections from older and newer client versions.
+It is extremely important that all server setups are run using the specific versions as shown on [this](../../miscellaneous/resource-versions.md) page. Failure to comply with this requirement may lead to the failure of the world to load if an earlier version is used, or the inability of certain plugins to function if a later version is used. To enable connectivity for clients utilizing different versions, the use of [ViaVersion](https://hangar.papermc.io/ViaVersion/ViaVersion) and/or [ViaBackwards](https://hangar.papermc.io/ViaVersion/ViaBackwards) is recommended.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>

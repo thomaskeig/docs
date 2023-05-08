@@ -29,13 +29,11 @@ Select all the files and add them to a ZIP file. I recommend using 7Zip for this
 
 You will now need to choose a server jar for your server to run. You can use any spigot fork you wish; however, I suggest paper for simplicity. If your server host has a built-in jar downloader, you can use that, ignore this step and proceed using that.
 
-Download the latest **1.19.4** Paper JAR file [here](https://papermc.io/downloads/all) (Click 1.19.4 on the sidebar). and place it in your main server directory. Make sure to set the name of the server jar in the server host settings.
+Download the correct jar for your server (you can find the correct version to use on [this](../../miscellaneous/resource-versions.md) page). Upload this to your root folder for your server.
 
 {% hint style="danger" %}
-It is vital that your use **1.19.4** for **ALL** setups. If you use any other version, the setup will fail to load and crash. If you wish to allow connections from other client versions, you can do so with [ViaVersion](https://hangar.papermc.io/ViaVersion/ViaVersion) & [ViaBackwards](https://hangar.papermc.io/ViaVersion/ViaBackwards).
+It is extremely important that all server setups are run using the specific versions as shown on [this](../../miscellaneous/resource-versions.md) page. Failure to comply with this requirement may lead to the failure of the world to load if an earlier version is used, or the inability of certain plugins to function if a later version is used. To enable connectivity for clients utilizing different versions, the use of [ViaVersion](https://hangar.papermc.io/ViaVersion/ViaVersion) and/or [ViaBackwards](https://hangar.papermc.io/ViaVersion/ViaBackwards) is recommended.
 {% endhint %}
-
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 ## 4. Plugin Dependencies
 

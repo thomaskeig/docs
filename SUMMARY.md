@@ -15,6 +15,7 @@
 
 ## 📖 Miscellaneous
 
+* [💾 Resource Versions](miscellaneous/resource-versions.md)
 * [📜 Terms of Service](miscellaneous/terms-of-service.md)
 * [❤ LifestealCore Integration](miscellaneous/lifestealcore-integration.md)
 * [🗞 Crediting Originals](miscellaneous/crediting-originals.md)
