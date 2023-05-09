@@ -1,7 +1,7 @@
 ---
 description: >-
   By purchasing any of my products, you must agree to these terms. Last updated:
-  7th May 2023.
+  9th May 2023.
 ---
 
 # 📜 Terms of Service
