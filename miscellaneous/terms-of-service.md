@@ -18,7 +18,7 @@ These terms are subject to change without notice, and you are responsible for ke
 4. The product cannot be resold privately or used on servers/accounts not owned or administrated by you.
 5. In case of any disrespectful or rude behaviour from your end, the product license can be revoked.
 6. We do not promote piracy, cracked Minecraft or any other illegal content. This means you will NOT get support if your server is using offline mode without a proxy that is using online mode.
-7. When using the Discord Partner system (to allow your friend to get support for you), it is YOUR responsibility to let te staff team know when they are no longer working with you and they need to be unlinked from your account.
+7. When using the Discord Partner system (to allow your friend to get support for you), it is YOUR responsibility to let the staff team know when they are no longer working with you and they need to be unlinked from your account.
 8. The new owner must obtain a product license before purchasing if you are selling an established server based on any setups or configs. You can contact @thomaskeig#0001 if you would like to verify a user's ownership.
 9. Disclosure of private server information, such as plugin names or server files, on a Discord server or any other website is strictly prohibited.
 10. If you submit a negative review due to a bug or server fault and have not requested support, your review will be reported and removed.
