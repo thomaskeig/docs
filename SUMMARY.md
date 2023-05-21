@@ -20,3 +20,7 @@
 * [❤ LifestealCore Integration](miscellaneous/lifestealcore-integration.md)
 * [🗞 Crediting Originals](miscellaneous/crediting-originals.md)
 * [💻 New Test Servers](miscellaneous/new-test-servers.md)
+
+## 📊 Comparison Charts
+
+* [❤ Lifesteal Comparison](comparison-charts/lifesteal-comparison.md)
