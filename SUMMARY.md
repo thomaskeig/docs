@@ -24,3 +24,4 @@
 ## 📊 Comparison Charts
 
 * [❤ Lifesteal Comparison](comparison-charts/lifesteal-comparison.md)
+* [📉 Playtime Levels Comparison](comparison-charts/playtime-levels-comparison.md)
