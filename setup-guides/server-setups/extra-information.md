@@ -54,6 +54,7 @@ The AFK Area rewards and times can be adjusted at: `/plugins/Skript/scripts/AFK.
 #### VIP Rank:
 
 * VIP prefix in chat & Tablist
+* VIP Kit Access
 * 2x Level XP Multiplier
 * Set up to 3 homes (Default: 2)
 * List up to 2 auctions at once (Default: 1)
@@ -66,6 +67,7 @@ The AFK Area rewards and times can be adjusted at: `/plugins/Skript/scripts/AFK.
 #### Pro Rank:
 
 * All perks from VIP Tier
+* Pro Kit Access
 * PRO prefix in chat & Tablist
 * Set up to 4 homes (Default: 2)
 * List up to 3 auctions at once (Default: 1)
@@ -78,6 +80,7 @@ The AFK Area rewards and times can be adjusted at: `/plugins/Skript/scripts/AFK.
 #### MVP Rank:
 
 * All perks from Pro Tier
+* MVP Kit Access
 * MVP prefix in chat & Tablist
 * Set up to 5 homes (Default: 2)
 * List up to 4 auctions at once (Default: 1)
@@ -90,6 +93,7 @@ The AFK Area rewards and times can be adjusted at: `/plugins/Skript/scripts/AFK.
 #### Elite Rank:
 
 * All perks from MVP Tier
+* Elite Kit Access
 * ELITE prefix in chat & Tablist
 * Set up to 6 homes (Default: 2)
 * List up to 5 auctions at once (Default: 1)
@@ -102,6 +106,7 @@ The AFK Area rewards and times can be adjusted at: `/plugins/Skript/scripts/AFK.
 #### Immortal Rank:
 
 * All perks from Elite Tier
+* Immortal Kit Access
 * IMMORTAL prefix in chat & Tablist
 * Set up to 7 homes (Default: 2)
 * List up to 6 auctions at once (Default: 1)

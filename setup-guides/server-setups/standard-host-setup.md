@@ -32,15 +32,16 @@ You will now need to choose a server jar for your server to run. You can use any
 Download the correct jar for your server (you can find the correct version to use on [this](../../miscellaneous/resource-versions.md) page). Upload this to your root folder for your server.
 
 {% hint style="danger" %}
-It is extremely important that all server setups are run using the specific versions as shown on [this](../../miscellaneous/resource-versions.md) page. Failure to comply with this requirement may lead to the failure of the world to load if an earlier version is used, or the inability of certain plugins to function if a later version is used. To enable connectivity for clients utilizing different versions, the use of [ViaVersion](https://hangar.papermc.io/ViaVersion/ViaVersion) and/or [ViaBackwards](https://hangar.papermc.io/ViaVersion/ViaBackwards) is recommended.
+It is extremely important that all server setups are run using the specific versions as shown on [this](../../miscellaneous/resource-versions.md) page. Failure to comply with this requirement may lead to the failure of the world to load if an earlier version is used or the inability of certain plugins to function if a later version is used. To enable connectivity for clients utilizing different versions, the use of [ViaVersion](https://hangar.papermc.io/ViaVersion/ViaVersion) and [ViaBackwards](https://hangar.papermc.io/ViaVersion/ViaBackwards) is recommended.
 {% endhint %}
 
 ## 4. Plugin Dependencies
 
-Because of licensing restrictions with certain plugins used in the setups, you will need to download some independently and add them to your `/plugins` folder. You can find links to these here:
+Because of licensing restrictions with specific plugins used in the setups, you will need to download some independently and add them to your `/plugins` folder. You can find links to these here:
 
 * [TAB Plugin](https://github.com/NEZNAMY/TAB/releases)
 * [Citizens Plugin](https://ci.citizensnpcs.co/job/Citizens2/)
+* [BetterBalls Plugin](https://www.spigotmc.org/resources/82787/) (Only for Lifesteal Setup)
 
 {% hint style="info" %}
 If you are setting up the Lifesteal Setup and wish to utilize the LifestealCore integration, please see the setup guide [here](../../miscellaneous/lifestealcore-integration.md).
