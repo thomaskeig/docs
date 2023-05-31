@@ -536,10 +536,10 @@ The following files use placeholders; you will need to find the following files 
 
 * `/plugins/DecentHolograms/holograms/spawn.yml` (Change the main spawn hologram)
 * `/plugins/DeluxeHub/config.yml` (Change multiple settings according to your server)
+* `/plugins/DeluxeHub/commands.yml` (Change Store & Discord Links)Multiple tutorials are
 * `/plugins/DeluxeHub/menus/serverselector.yml` (Change your server names)
 * `/plugins/MiniMOTD/main.conf` (Change MOTD)
 * `/plugins/Citizens/saves.yml` (Change your Server's Names & IP Addresses - For the NPCs)
-* `/plugins/Skript/scripts/core.sk` (Change Store & Discord Links)
 * `/plugins/TAB/config.yml` (Change IP on TAB & Scoreboard)
 * `/plugins/TAB/animations.yml` (Change information on Bossbar)
 * `plugins/MiniMOTD/main.conf` (Change MOTD)
