@@ -40,7 +40,7 @@ It is extremely important that all server setups are run using the specific vers
 Because of licensing restrictions with specific plugins used in the setups, you will need to download some independently and add them to your `/plugins` folder. You can find links to these here:
 
 * [TAB Plugin](https://github.com/NEZNAMY/TAB/releases)
-* [Citizens Plugin](https://ci.citizensnpcs.co/job/Citizens2/)
+* [Citizens Plugin (1.19.4)](https://ci.citizensnpcs.co/job/Citizens2/3105/)  /  [Citizens Plugin (1.20)](https://ci.citizensnpcs.co/job/Citizens2/) (Make sure you click the correct version based on the setup's native version)
 * [BetterBalls Plugin](https://www.spigotmc.org/resources/82787/) (Only for Lifesteal Setup)
 
 {% hint style="info" %}
