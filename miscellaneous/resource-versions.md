@@ -14,8 +14,8 @@ If you are an advanced user, you are welcome to use any fork of paper! The links
 
 | Resource               | Minecraft Version                                                        |
 | ---------------------- | ------------------------------------------------------------------------ |
-| **Lifesteal Setup**    | [Paper 1.19.4](https://serverjars.com/api/fetchJar/servers/paper/1.19.4) |
-| **Survival Setup**     | [Paper 1.19.4](https://serverjars.com/api/fetchJar/servers/paper/1.19.4) |
+| **Lifesteal Setup**    | [Paper 1.20.1](https://papermc.io/downloads/paper)                       |
+| **Survival Setup**     | [Paper 1.20.1](https://papermc.io/downloads/paper)                       |
 | **Factions Setup**     | [Paper 1.19.4](https://serverjars.com/api/fetchJar/servers/paper/1.19.4) |
 | **Free for All Setup** | [Paper 1.19.4](https://serverjars.com/api/fetchJar/servers/paper/1.19.4) |
 | **BoxPvP Setup**       | [Paper 1.19.4](https://serverjars.com/api/fetchJar/servers/paper/1.19.4) |
