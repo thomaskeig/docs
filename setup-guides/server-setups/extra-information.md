@@ -55,7 +55,6 @@ The AFK Area rewards and times can be adjusted at: `/plugins/Skript/scripts/AFK.
 
 * VIP prefix in chat & Tablist
 * VIP Kit Access
-* 2x Level XP Multiplier
 * Set up to 3 homes (Default: 2)
 * List up to 2 auctions at once (Default: 1)
 * 2x Backpack Rows (18 Slots) (Default: 1 Row)
@@ -163,7 +162,6 @@ The AFK Area rewards and times can be adjusted at: `/plugins/Skript/scripts/AFK.
 #### VIP Rank:
 
 * VIP prefix in chat & Tablist
-* 2x Level XP Multiplier
 * VIP Kit Access
 * Set up to 3 homes (Default: 2)
 * 2x Default Player Warps (Default: 1)
@@ -277,7 +275,6 @@ The AFK Area rewards and times can be adjusted at: `/plugins/Skript/scripts/AFK.
 #### VIP Rank:
 
 * VIP prefix in chat & Tablist
-* 2x Level XP Multiplier
 * VIP Kit Access
 * Set up to 3 homes (Default: 2)
 * 1.1x Shop Sell Booster
@@ -386,7 +383,6 @@ The shop prices can be edited in: `/plugins/EconomyShopGUI/shops.yml`
 #### VIP Rank:
 
 * VIP prefix in chat & Tablist
-* 2x Level XP Multiplier
 * 5 Coins as a Daily Reward (Default: 3)
 * Access to /ptime
 * Access to /spectate
@@ -474,7 +470,6 @@ The shopkeeper trades can be configured by being opped and shift right-clicking 
 
 * VIP prefix in chat & Tablist
 * Access to VIP Mine
-* 2x Level XP Multiplier
 * \+1 AFK Shard every 15 minutes
 * 5 Coins as a Daily Reward (Default: 3)
 * VIP Kit Access
