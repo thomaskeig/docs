@@ -2,10 +2,10 @@
 description: Below is some extra information specific to each setup.
 ---
 
-# ✨ Extra Information
+# Extra Information
 
 {% hint style="danger" %}
-Because each setup differs, please ensure that you select the correct tab below depending on the server you are setting up.
+**Because each setup differs, please ensure that you select the correct tab below depending on the server you are setting up.**
 {% endhint %}
 
 {% tabs %}

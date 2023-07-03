@@ -4,12 +4,14 @@ description: >-
   9th May 2023.
 ---
 
-# 📜 Terms of Service
+# Terms of Service
 
 {% hint style="danger" %}
 By making a purchase of any product, you are deemed to have given your automatic agreement to the associated terms and conditions, regardless of whether or not you have read them.
 
 These terms are subject to change without notice, and you are responsible for keeping updated with any changes.
+
+Breaking these Terms will result in your License being blacklisted.
 {% endhint %}
 
 1. Redistribution of a resource as your own is strictly prohibited.
@@ -19,7 +21,7 @@ These terms are subject to change without notice, and you are responsible for ke
 5. In case of any disrespectful or rude behaviour from your end, the product license can be revoked.
 6. We do not promote piracy, cracked Minecraft or any other illegal content. This means you will NOT get support if your server is using offline mode without a proxy that is using online mode.
 7. When using the Discord Partner system (to allow your friend to get support for you), it is YOUR responsibility to let the staff team know when they are no longer working with you and they need to be unlinked from your account.
-8. The new owner must obtain a product license before purchasing if you are selling an established server based on any setups or configs. You can contact @thomaskeig#0001 if you would like to verify a user's ownership.
+8. The new owner must obtain a product license before purchasing if you are selling an established server based on any setups or configs. You can contact **`thomaskeig`** on Discord if you would like to verify a user's ownership.
 9. Disclosure of private server information, such as plugin names or server files, on a Discord server or any other website is strictly prohibited.
 10. If you submit a negative review due to a bug or server fault and have not requested support, your review will be reported and removed.
 11. By purchasing a resource, you are acquiring a copy of the resource, and modifying or adding additional content does not make you the owner.
