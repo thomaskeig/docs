@@ -12,6 +12,7 @@
   * [Playtime Levels](setup-guides/configurations/playtime-levels.md)
   * [Coin Shop](setup-guides/configurations/coin-shop.md)
   * [Vote Ranks](setup-guides/configurations/vote-ranks.md)
+  * [Simple Prestiges](setup-guides/configurations/simple-prestiges.md)
 
 ## Miscellaneous
 
