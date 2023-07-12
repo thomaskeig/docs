@@ -2,7 +2,7 @@
 description: Learn how to set up any of my setups on a Minehut with ease!
 ---
 
-# 💾 Minehut Setup
+# Minehut Setup
 
 {% hint style="info" %}
 This page walks you through setting up my server setup on Minehut. If you are using a different server host, please follow the guide [here](standard-host-setup.md).

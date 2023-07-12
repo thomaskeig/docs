@@ -2,7 +2,7 @@
 description: Find out what versions are supported for each resource
 ---
 
-# 💾 Resource Versions
+# Resource Versions
 
 {% hint style="danger" %}
 It is extremely important that all server setups are run using the specific versions as shown below. Failure to comply with this requirement may lead to the failure of the world to load if an earlier version is used, or the inability of certain plugins to function if a later version is used. To enable connectivity for clients utilizing different versions, the use of [ViaVersion](https://hangar.papermc.io/ViaVersion/ViaVersion) and/or [ViaBackwards](https://hangar.papermc.io/ViaVersion/ViaBackwards) is recommended.

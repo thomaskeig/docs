@@ -1,4 +1,4 @@
-# ✈ Configurations
+# Configurations
 
 The following docs will cover how to set up each of the configurations created by thomaskeig. Each setup guide is separate from the others, and they do not overlap.
 

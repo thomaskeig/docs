@@ -4,7 +4,7 @@ description: >-
   Setup.
 ---
 
-# ❤ LifestealCore Integration
+# LifestealCore Integration
 
 If you wish to use [LifestealCore](https://polymart.org/resource/lifesteal-core.2220) (Paid Plugin - Costs €9.99), you can follow the steps on this page. LifestealCore is not needed for this Setup to function. If you'd like to use the default one with the setup. You can do so at no extra cost.
 

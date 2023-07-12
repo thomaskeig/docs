@@ -1,4 +1,4 @@
-# ✈ Server Setups
+# Server Setups
 
 These docs will cover how to set up the **Lifesteal, Survival, FFA, BoxPvP & Easy Hub** Server Setups created by thomaskeig.
 

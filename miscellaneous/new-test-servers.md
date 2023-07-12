@@ -2,7 +2,7 @@
 description: All setup test server's now use BuiltByBit's Integrated Servers!
 ---
 
-# 💻 New Test Servers
+# New Test Servers
 
 ## How can I use them?
 

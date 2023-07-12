@@ -2,7 +2,7 @@
 description: Compare my Lifesteal Setup with others on the market
 ---
 
-# ❤ Lifesteal Comparison
+# Lifesteal Comparison
 
 At the bottom of this page is a table which compares some of the top Lifesteal Setups on the market. If you notice an imperfection or if updates have occurred to some resources that make the graphic below untrue, please let me know via my [Discord Server](https://discord.gg/UusS28cN7y).
 

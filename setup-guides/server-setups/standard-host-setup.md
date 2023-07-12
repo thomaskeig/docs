@@ -2,7 +2,7 @@
 description: Learn how to set up any of my setups on a hosting site with ease!
 ---
 
-# 💾 Standard Host Setup
+# Standard Host Setup
 
 {% hint style="info" %}
 This page walks you through setting up my server setup on the majority of server hosts. If you are using Minehut, please follow the specialised guide [here](minehut-setup.md).
